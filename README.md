@@ -19,7 +19,7 @@ The resulting optimized vector represents a theoretical blueprint—a set of phy
 
 One of the central challenges in continuous optimization of molecules is that chemical space is discrete (you cannot have 0.5 of a carbon atom), while neural networks operate in continuous space.
 
-If we allow the AI to optimize freely, it might suggest a molecule with a Molecular Weight of 300.5 and a Ring Count of 2.3. While mathematically optimal for the loss function, such a molecule cannot exist physically. Therefore, Tox-NIO treats the AI's output not as a final structure, but as a **property blueprint**. We use this blueprint to search a "warehouse" of real molecules (ZINC-250k) to find the one that best matches the AI's ideal specifications.
+If we allow the AI to optimize freely, it might suggest a molecule with a Molecular Weight of 300.5 and a Ring Count of 2.3. While mathematically optimal for the loss function, such a molecule cannot exist physically. Therefore, Tox-NIO treats the AI's output not as a final structure, but as a **property blueprint**. We use this blueprint to search a warehouse of real molecules (ZINC-250k) to find the one that best matches the AI's ideal specifications.
 
 ## Datasets
 
