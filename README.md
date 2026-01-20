@@ -2,7 +2,9 @@
 # Tox-NIO: Neural Input Optimization for Inverse Drug Design & Projected Gradient Descent 
 ![Status](https://img.shields.io/badge/Status-Research_Prototype-blue) ![Framework](https://img.shields.io/badge/PyTorch-2.0-red) ![Cheminformatics](https://img.shields.io/badge/RDKit-Chemistry-green)
 
-> **⚠️ LEGAL NOTICE:** This project is the sole intellectual property of **Nandhu S Kumar**. Unauthorized copying, adaptation, or use is strictly prohibited and will be subject to legal action.
+> **INTELLECTUAL PROPERTY NOTICE** :
+> This repository and its contents are the exclusive property of **Nandhu S Kumar**.
+> Permission is solely granted to execute the code for evaluation, educational verification, or demonstration purposes. Any unauthorized copying, modification, distribution, or use of this source code, in whole or in part, for commercial or derivative or other personal projects is strictly prohibited. Violations of this notice will be subject to legal action and applicable intellectual property enforcement.
 
 **Tox-NIO** is a computational framework that leverages **Neural Input Optimization (NIO)** to perform inverse molecular design. Instead of screening millions of molecules to find a safe candidate (traditional QSAR), Tox-NIO takes a known toxic scaffold and uses gradient-based optimization to mathematically deduce the blueprint of a safer analog, effectively curing the molecule of its toxicity *in silico*.
 
