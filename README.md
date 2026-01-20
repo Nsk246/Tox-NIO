@@ -4,8 +4,7 @@
 
 > **INTELLECTUAL PROPERTY NOTICE** :
 > This repository and its contents are the exclusive property of **Nandhu S Kumar**.
-> Permission is solely granted to execute the code for evaluation, educational verification, or demonstration purposes. Any unauthorized copying, modification, distribution, or use of this source code, in whole or in part, for commercial or derivative or other personal projects is strictly prohibited.
-> **Enforcement:** Violations of this notice will result in immediate **DMCA Takedown requests** to the hosting platform and may be subject to further legal action under applicable intellectual property laws.
+> Permission is solely granted to execute the code for evaluation, educational verification, or demonstration purposes. Any unauthorized copying, modification, distribution, or use of this source code, in whole or in part, for commercial or derivative or other personal projects is strictly prohibited. Violations of this notice will result in immediate **DMCA Takedown requests** to the hosting platform and may be subject to further legal action under applicable intellectual property laws.
 
 **Tox-NIO** is a computational framework that leverages **Neural Input Optimization (NIO)** to perform inverse molecular design. Instead of screening millions of molecules to find a safe candidate (traditional QSAR), Tox-NIO takes a known toxic scaffold and uses gradient-based optimization to mathematically deduce the blueprint of a safer analog, effectively curing the molecule of its toxicity *in silico*.
 
