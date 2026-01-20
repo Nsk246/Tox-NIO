@@ -84,6 +84,6 @@ pip install torch rdkit-pypi scikit-learn pandas numpy seaborn
 ---
 
 © 2026 Nandhu S Kumar. All rights reserved.  
-This software may not be copied, modified, or distributed without explicit permission.
+This software repository including the python notebook may not be copied, modified, or distributed without explicit permission.
 Licensed under: All rights reserved.
 
