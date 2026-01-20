@@ -1,5 +1,5 @@
 
-# Tox-NIO: Neural Input Optimization for Inverse Drug Design
+# Tox-NIO: Neural Input Optimization for Inverse Drug Design & Projected Gradient Descent 
 ![Status](https://img.shields.io/badge/Status-Research_Prototype-blue) ![Framework](https://img.shields.io/badge/PyTorch-2.0-red) ![Cheminformatics](https://img.shields.io/badge/RDKit-Chemistry-green)
 
 > **⚠️ LEGAL NOTICE:** This project is the sole intellectual property of **Nandhu S Kumar**. Unauthorized copying, adaptation, or use is strictly prohibited and will be subject to legal action.
